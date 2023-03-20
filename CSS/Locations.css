@@ -1,0 +1,9 @@
+.Locations{
+    background-image: url("../Imagens/fundos.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 75%;
+    margin: auto;
+    display: flex;
+}
